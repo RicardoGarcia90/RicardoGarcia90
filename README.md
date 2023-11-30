@@ -4,7 +4,7 @@
 <p>
   Estou sempre em busca de oportunidades que me permitam contribuir de maneira significativa para um crescimento profissional e pessoal, criando soluções inovadoras e resolvendo problemas que impulsionem meu desenvolvimento. Acredito que através do comprometimento e da dedicação, posso agregar valor aos projetos nos quais me envolvo, fortalecendo assim minha habilidade de enfrentar desafios e de alcançar resultados satisfatórios.
   
-  Sou um desenvolvedor com expertise em React, habilidades avançadas em HTML, Pré-processadores CSS (Sass), JavaScript,Requisições HTTP/APIs e conhecimentos em UX/UI.
+  Sou um desenvolvedor com expertise em React, habilidades avançadas em HTML, Pré-processadores CSS (Sass), JavaScript, Requisições HTTP/APIs e conhecimentos em UX/UI.
 </p>
 
 #
