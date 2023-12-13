@@ -15,6 +15,8 @@
 - Certificação Scrum Foundations: Conhecimento em práticas ágeis.
 
 💡Te convido para conhecer meu portfolio de projetos pessoais: https://ricardogarcia-portfolio.netlify.app/
+
+📧 E-mail para contato: ricardonunesgarcia@gmail.com
 </p>
 
 #
