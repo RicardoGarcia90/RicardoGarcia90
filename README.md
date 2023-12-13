@@ -1,5 +1,5 @@
 <h1>Olá, meu nome é Ricardo 🙋🏻</h1> 
-<h2>Desenvolvedor Front-End</h2>
+<h2>Desenvolvedor Web</h2>
  
 <p>
   Estou sempre em busca de oportunidades que me permitam contribuir de maneira significativa para um crescimento profissional e pessoal, criando soluções inovadoras e resolvendo problemas que impulsionem meu desenvolvimento. Acredito que através do comprometimento e da dedicação, posso agregar valor aos projetos nos quais me envolvo, fortalecendo assim minha habilidade de enfrentar desafios e de alcançar resultados satisfatórios.
