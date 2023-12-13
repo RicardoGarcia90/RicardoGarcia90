@@ -4,7 +4,17 @@
 <p>
   Estou sempre em busca de oportunidades que me permitam contribuir de maneira significativa para um crescimento profissional e pessoal, criando soluções inovadoras e resolvendo problemas que impulsionem meu desenvolvimento. Acredito que através do comprometimento e da dedicação, posso agregar valor aos projetos nos quais me envolvo, fortalecendo assim minha habilidade de enfrentar desafios e de alcançar resultados satisfatórios.
   
-  Sou um desenvolvedor com expertise em React, habilidades avançadas em HTML, Pré-processadores CSS (Sass), JavaScript, Requisições HTTP/APIs e conhecimentos em UX/UI.
+  Possuo experiência de 2 anos na área de Tecnologia atuando com RPA e desenvolvimento de aplicações web.
+
+💻 Experiência em:
+
+- JavaScript | React | Node.js | HTML | CSS : Com sólidos conhecimentos, estou pronto para criar interfaces e aplicações web dinâmicas e responsivas.
+- API REST: Desenvolvimento de API para integrações eficientes.
+- Banco de dados: Conhecimento tanto em MongoDB quanto em SQL, utilizando para integrações com APIs.
+- Git: Controle de versão para organização de versionamento.
+- Certificação Scrum Foundations: Conhecimento em práticas ágeis.
+
+💡Te convido para conhecer meu portfolio de projetos pessoais: https://ricardogarcia-portfolio.netlify.app/
 </p>
 
 #
