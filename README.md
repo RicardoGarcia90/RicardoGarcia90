@@ -4,15 +4,17 @@
 <p>
   Estou sempre em busca de oportunidades que me permitam contribuir de maneira significativa para um crescimento profissional e pessoal, criando soluções inovadoras e resolvendo problemas que impulsionem meu desenvolvimento. Acredito que através do comprometimento e da dedicação, posso agregar valor aos projetos nos quais me envolvo, fortalecendo assim minha habilidade de enfrentar desafios e de alcançar resultados satisfatórios.
   
-  Possuo experiência de 2 anos na área de Tecnologia atuando com RPA e desenvolvimento de aplicações web.
+  Possuo experiência de 2 anos na área de tecnologia atuando com automações e desenvolvimento de aplicações web.
 
 💻 Experiência em:
 
-- JavaScript | React | Node.js | HTML | CSS : Com sólidos conhecimentos, estou pronto para criar interfaces e aplicações web dinâmicas e responsivas.
-- API REST: Desenvolvimento de API para integrações eficientes.
-- Banco de dados: Conhecimento tanto em MongoDB quanto em SQL, utilizando para integrações com APIs.
-- Git: Controle de versão para organização de versionamento.
+- Python: Django, Flask e bibliotecas de automação | JavaScript: React | UI: Material UI
+- API REST: Desenvolvimento de API para integrações eficientes;
+- Sistemas de automação para tarefas repetitivas;
+- Banco de dados: Conhecimento tanto em MongoDB quanto em MySQL, utilizando para integrações com APIs;
+- Git: Controle de versão para organização de versionamento;
 - Certificação Scrum Foundations: Conhecimento em práticas ágeis.
+Com sólidos conhecimentos, estou pronto para criar interfaces e aplicações web dinâmicas e responsivas.
 
 💡Te convido para conhecer meu portfolio de projetos pessoais: https://ricardogarcia-portfolio.netlify.app/
 
@@ -22,17 +24,23 @@
 #
 <h3>Habilidades</h3>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #
 <h3>Contato</h3>
