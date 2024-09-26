@@ -8,6 +8,8 @@
 
 💻 Experiência em:
 
+- Next.js;
+- TypeScript;
 - JavaScript;
 - React.js;
 - Node.js;
@@ -25,6 +27,8 @@ Com sólidos conhecimentos, estou pronto para criar interfaces e aplicações we
 #
 <h3>Habilidades</h3>
 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
